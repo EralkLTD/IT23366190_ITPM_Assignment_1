@@ -2,9 +2,6 @@
 
 ## Transliteration Accuracy Testing
 
-👤 Student Details
-Name: Buvanaka Bataduwaarachchi
-Student ID: IT23366190
 
 ### 📌 Overview
 
